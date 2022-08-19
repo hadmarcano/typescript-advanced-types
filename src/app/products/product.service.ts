@@ -8,6 +8,6 @@ export const addProduct = (data: Product) =>{
 };
 
 
-export const updateProduct = (id: string, changes: Product){
+export const updateProduct = (id: string, changes: Product) => {
   // code...
 };
